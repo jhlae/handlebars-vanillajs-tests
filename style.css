@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  display: flex;
+  max-width: 50em;
+  margin: 0 auto;
+}
+
+div {
+  align-content: center;
+  padding: 1em 0;
+  margin-bottom: 1em;
+  flex: 1;
+  background: white;
+  position: relative;
+  border-bottom: 2px solid #ececec;
+}
+
+h2 {
+  margin: 0;
+  font-size: 2em;
+}
+
+p {
+  color: #555;
+  font-size: 1.5em;
+}
