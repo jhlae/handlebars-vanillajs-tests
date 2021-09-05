@@ -11,7 +11,7 @@ main {
 
 div {
   align-content: center;
-  padding: 1em 0;
+  padding: 0.2em 0;
   margin-bottom: 1em;
   flex: 1;
   background: white;
@@ -19,12 +19,8 @@ div {
   border-bottom: 2px solid #ececec;
 }
 
-h2 {
-  margin: 0;
-  font-size: 2em;
-}
 
 p {
-  color: #555;
+  color: #000;
   font-size: 1.5em;
 }
